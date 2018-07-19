@@ -73,7 +73,7 @@ pipeline {
                                     
                         },
                         "Sonar Scan": {
-                                    
+                                     echo 'Sonar Scan'
                         }
                         
                 )
